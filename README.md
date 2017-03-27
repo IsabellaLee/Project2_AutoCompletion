@@ -1,4 +1,4 @@
-# Project2_AutoCompletion
+# _AutoCompletion_
 Project: N-Gram (Google Auto Completion)
 
 Build N-Gram library that captures each word’s possibility distribution based on the given dataset through implementing both Mapper and Reducer classes，run the first job on MapReduce and put the results into an offline MySQL database
